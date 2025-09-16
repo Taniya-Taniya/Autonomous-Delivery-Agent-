@@ -5,7 +5,7 @@ This project simulates an autonomous delivery agent navigating a 2D grid world. 
 The code file is named ```delivery_agent.py.```
 
 ## Features
--GridWorld Environment
+- GridWorld Environment
   -Walls (#)
   -Terrain costs (1-9)
   -Moving obstacles (cyclic paths)
