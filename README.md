@@ -1,4 +1,5 @@
-#Autonomous Delivery Agent
+#
+Autonomous Delivery Agent
 
 This project simulates an autonomous delivery agent navigating a 2D grid world. The agent must move from a start location to a goal while considering terrain costs, static obstacles, and dynamic moving obstacles. Different search algorithms are implemented and compared in terms of path cost, nodes expanded, and execution time.
 
